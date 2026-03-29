@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "changelog": "https://vcad.ventryx.xyz/changelog",
+  "required": false,
+  "minSupported": "0.1.0"
+}
